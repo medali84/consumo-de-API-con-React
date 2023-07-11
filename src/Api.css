@@ -1,0 +1,19 @@
+.api{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.api .contenedor-img{
+    display: flex;
+    width: 90px;
+    
+}
+.api .contenedor-productos{
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+}
+.api .navbar{
+    width: 100%;
+}
